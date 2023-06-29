@@ -1,2 +1,2 @@
 # PasswordManager
-React App for managing passwords
+React app for managing passwords
