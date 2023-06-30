@@ -1,0 +1,34 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Title {
+  margin-top: 1.25rem;
+  font-size: 2rem;
+}
+
+.AddPassword {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: lightcoral;
+  width: 50%;
+  height: 18.75rem;
+  margin-top: 1.25rem;
+  border-radius: 1.25rem;
+}
+
+.AddPassword input,
+button {
+  width: 18.75rem;
+  height: 40rem;
+  border: none;
+  border-radius: 0.625rem;
+  margin: 0.625rem;
+  padding-left: 1rem;
+  font-size: 1.25rem;
+}
